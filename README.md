@@ -16,7 +16,7 @@
 		}
 
 		.input {
-			width: 40px;
+			width: 50px;
 			border: none;
 			border-bottom: 3px solid rgba(0, 0, 0, 0.5);
 			margin: 0 10px;
